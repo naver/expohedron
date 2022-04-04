@@ -6,7 +6,7 @@ This repository contains code relative to the WSDM'22 paper [Introducing the Exp
 
 It is sufficient to clone the repository.
 The requirements are listed in the file `requirements.txt`.
-If conda is used, they can be installed in a virtual environment `farine` as
+If conda is used, they can be installed in a virtual environment `expohedron` as
 ```shell
 conda create --name expohedron
 conda activate expohedron
