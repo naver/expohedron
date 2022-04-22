@@ -1,6 +1,6 @@
 # README
 
-This repository contains code relative to the WSDM'22 paper [Introducing the Expohedron for efficient Pareto-optimal fairness-utility amortizations in repeated rankings](https://dl.acm.org/doi/10.1145/3488560.3498490) by Kletti et al.
+This repository contains code relative to the WSDM'22 paper [Introducing the Expohedron for efficient Pareto-optimal fairness-utility amortizations in repeated rankings](https://dl.acm.org/doi/10.1145/3488560.3498490?cid=99660008836) by Kletti et al.
 
 ## 1. Installation
 
